@@ -7,5 +7,7 @@
     <orderEntry type="jdk" jdkName="Python 3.11 (practice)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="pythonProject1" />
+    <orderEntry type="module" module-name="ООП" />
+    <orderEntry type="module" module-name="Python" />
   </component>
 </module>
